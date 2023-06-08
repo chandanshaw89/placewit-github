@@ -1,2 +1,6 @@
+<<<<<<< HEAD
  This is a first text modified
 this is 2nd line
+=======
+ This is a first text modified 2
+>>>>>>> 7d3a53fe6a812ad620a289bdb913c39845821b15
